@@ -23,3 +23,6 @@ socket.send_string('MSG')
 encouragingMessage = socket.recv()
 ```
 ## UML Sequence Diagram
+<p align="center">
+  <img src="UMLSequenceDiagram.jpg" alt="UML Diagram for Microservice A" />
+</p>
